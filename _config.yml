@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Bingtong Chai / Site Title"
+title                    : "Bingtong Chai / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Postgraduate student at UQ"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Bingtong Chai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Electrical engineering student focusing on THz QCLs and intelligent energy systems."
+  location         : "Brisbane & Jiangsu"
+  employer         : "The University of Queensland"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bingtongchai@gmail.com" 
 
   # Academic websites
   academia         : # URL
