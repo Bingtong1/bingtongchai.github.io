@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Bingtong Chai / Personal Website"
+title                    : "Bingtong Chai's Personal Website"
 title_separator          : "-"
 name                     : &name "Bingtong Chai"
 description              : &description "Master of Engineering Science student at The University of Queensland"   # Update this with a general description of your site, this is the default if not overridden by a page
