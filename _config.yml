@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Bingtong Chai / Personal Website"
 title_separator          : "-"
 name                     : &name "Bingtong Chai"
-description              : &description "Postgraduate student at UQ"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Master of Engineering Science student at The University of Queensland"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bingtong1.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Bingtong Chai"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical engineering student focusing on THz QCLs and intelligent energy systems."
-  location         : "Brisbane & Jiangsu"
+  bio              : "Master of Engineering Science student at The University of Queensland. Research interests include terahertz quantum cascade lasers (THz QCLs), nonlinear dynamics, and intelligent energy systems."
+  location         : "Brisbane, Australia & Yangzhou, Jiangsu, China"
   employer         : "The University of Queensland"
   uri              : # URL
-  email            : "bingtongchai@gmail.com" 
+  email            : "bingtongchai@163.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"Bingtong1"
+  github           : "Bingtong1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
