@@ -3,7 +3,7 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
+  {% if page.sidebar and page.sidebar != empty %}
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src=
@@ -17,7 +17,7 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    {% if page.sidebar.nav %}
+    {% if page.sidebar.nav and page.sidebar.nav != empty %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
