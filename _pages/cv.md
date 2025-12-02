@@ -12,10 +12,9 @@ redirect_from:
 ## Contact Information
 
 **Bingtong Chai**  
-Phone: +86 19962553097  
-Email: bingtongchai@163.com  
-Location: Brisbane, Australia & Yangzhou, Jiangsu, China  
-Origin: Yangzhou, Jiangsu, China
+Phone: (+61)474838901  
+Email: bingtongchai@gmail.com  
+Location: Brisbane
 
 ---
 
