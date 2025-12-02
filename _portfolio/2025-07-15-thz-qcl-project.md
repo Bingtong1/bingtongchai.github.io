@@ -28,3 +28,4 @@ I developed a comprehensive model for terahertz quantum cascade lasers (THz QCLs
 
 This research contributes to the understanding of injection-locked THz QCLs, which are important for coherent THz sources in applications such as biomedical imaging, security screening, and materials characterization.
 
+

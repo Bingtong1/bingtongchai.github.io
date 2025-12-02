@@ -36,3 +36,4 @@ I designed and developed a high-precision programmable switching power supply fo
 
 This project demonstrates practical application of power electronics principles in industrial settings, with focus on efficiency, reliability, and system integration.
 
+
